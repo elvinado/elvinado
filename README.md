@@ -1,7 +1,8 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/dMLmQfCO7lCA2gX3tw" width="100"/>
+    <img src="https://giphy.com/embed/dMLmQfCO7lCA2gX3tw" width="100">
 </div>
-<div id="badges">
+
+<div id="badges" align="center">
     <a href="https://www.linkedin.com/in/alvin-alx/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -13,7 +14,8 @@
     </a>
 </div>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, World! I'm elvinado
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there...
 
 **`👨‍💻 Data Scientist | Data Analyst | Data Engineer | GIS Specialist | Data Management`**
 
@@ -35,7 +37,10 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
+
 ### 📊 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinado&hide=scss,css&theme=cobalt)
+
+
 ![elvinado's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvinado&show_icons=true&theme=cobalt)
