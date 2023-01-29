@@ -25,7 +25,7 @@
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only) -->
----
+
 
 ### 🧰 Languages and Tools
 
@@ -37,7 +37,9 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
----
+
+
+
 
 ### 📊 Stats
 
